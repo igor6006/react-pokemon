@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Source+Sans+Pro&display=swap');
+
+
+:root {
+  font-family: Karla;
+  --third: #F5DB13;
+  --pharagraph: #212121;
+
+}
+p{
+  font-family: Source-Sans-Pro;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
